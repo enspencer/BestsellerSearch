@@ -5,8 +5,8 @@ class ListsController < ApplicationController
     @client.configure do |config|  
       config.api_key = ENV['API_KEY']
     end
-    binding.pry
-    @client.single_history()
+    # binding.pry
+    # @client.single_history()
   end
 
 end
