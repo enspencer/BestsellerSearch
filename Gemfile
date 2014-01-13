@@ -12,6 +12,8 @@ gem 'pry'
 # Use dotenv to keep files out of git
 gem 'dotenv'
 
+gem 'httparty'
+
 gem 'nytimes-bestsellers'
 
 # Use these gems for Bootstrap styling
