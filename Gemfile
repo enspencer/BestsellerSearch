@@ -12,8 +12,10 @@ gem 'pry'
 # Use dotenv to keep files out of git
 gem 'dotenv'
 
+# Use HTTParty for nytimes HTTP requests
 gem 'httparty'
 
+# Use to get lists from NYTimes API
 gem 'nytimes-bestsellers'
 
 # Use these gems for Bootstrap styling
