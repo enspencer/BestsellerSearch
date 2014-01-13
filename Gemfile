@@ -8,6 +8,8 @@ gem 'pg'
 
 gem 'pry'
 
+gem 'dotenv'
+
 # Use these gems for Bootstrap styling
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 gem 'therubyracer', platforms: :ruby
