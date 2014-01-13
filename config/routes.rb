@@ -1,5 +1,6 @@
 BestsellerSearch::Application.routes.draw do
   get "lists/index"
+  get "lists/book_search"
 
   root 'lists#index'
   # The priority is based upon order of creation: first created -> highest priority.
