@@ -6,9 +6,13 @@ gem 'rails', '4.0.0'
 # Use postgresql as the database for Active Record
 gem 'pg'
 
+# Use pry for debugging
 gem 'pry'
 
+# Use dotenv to keep files out of git
 gem 'dotenv'
+
+gem 'nytimes-bestsellers'
 
 # Use these gems for Bootstrap styling
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
